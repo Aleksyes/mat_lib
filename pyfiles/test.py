@@ -1,4 +1,4 @@
-from trigonometry import sin
+adfrom trigonometry import sin
 import math
 
 pi = math.pi
